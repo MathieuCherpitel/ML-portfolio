@@ -1,11 +1,7 @@
 # DM ML portfolio
 
-
 ## Description
 The Data Mining, Machine Learning portfolio is our sandbox to learn and discover these fields. It is developped as a coursework for our postgraduate program in Data Science.
-
-## Installation
-#TODO
 
 ## Roadmap
 - Week 1 : Introduction to Data Mining and Machine Learning
